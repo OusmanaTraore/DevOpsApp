@@ -12,6 +12,8 @@
             <img src="/images/chocobo.jpg" alt="une image de chocobo" style="float:right;width:233px;height:175px;"/>
         </h1>        
     </header>
+
+    <p>Coming Soon...</p>
     
     <hr/>
     <footer>

@@ -1,7 +1,7 @@
-package com.wunderit.devops;
+package com.gtm.devops;
 
 import static org.junit.Assert.assertTrue;
-import com.wunderit.devops.controller.LoginController;
+import com.gtm.devops.controller.LoginController;
 import org.junit.Test;
 
 public class DevOpsApplicationTests {
