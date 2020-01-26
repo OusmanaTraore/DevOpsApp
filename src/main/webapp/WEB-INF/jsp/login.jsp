@@ -13,7 +13,17 @@
         </h1>        
     </header>
 
-    <p>Coming Soon...</p>
+    <p>New game available:</p>
+
+    <form action="/login" method="POST">
+        Year of birth:<br>
+        <input type="number" name="year"><br>
+        Month of birth:<br>
+        <input type="number" name="month"><br>
+        Day of birth:<br>
+        <input type="number" name="day"><br>
+        <input type="submit" value="Submit">
+    </form>
     
     <hr/>
     <footer>
