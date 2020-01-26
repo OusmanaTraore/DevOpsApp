@@ -19,6 +19,9 @@ public class LoginController {
 		model.put("year", yaer);
 		model.put("month", month);
 		model.put("day", day);
+		if (day > 31) {
+			return "error";
+		}
 		return "dayofbirth";
 	}
 }
