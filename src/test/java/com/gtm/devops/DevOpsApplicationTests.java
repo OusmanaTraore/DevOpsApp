@@ -1,16 +1,20 @@
 package com.gtm.devops;
 
-import static org.junit.Assert.assertTrue;
-import com.gtm.devops.controller.LoginController;
-import org.junit.Test;
+import static org.assertj.core.api.Assertions.assertThat;
 
+import com.gtm.devops.controller.LoginController;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+@SpringBootTest
 public class DevOpsApplicationTests {
 
-    @Test
-    public void testLoginController() {
-        final LoginController loginController = new LoginController();
-		final String result = loginController.loginMessage();
-        assertTrue(result.length() > 0);
-    }
+	@Autowired
+	private LoginController controller;
 
+	@Test
+	public void contextLoads() throws Exception {
+		assertThat(controller).isNotNull();
+	}
 }

@@ -13,7 +13,7 @@
         </h1>       
     </header>
 
-    <p>${year}</p>
+    <p>${year}/${month}/${day}</p>
 
     <p>Would you like to play again?<br/>
         <a href="login">Click here</a>
