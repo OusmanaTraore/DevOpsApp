@@ -15,8 +15,8 @@ public class LoginController {
 	}
 
 	@RequestMapping(value="/login", method = RequestMethod.POST)
-	public String showDayofBirth(ModelMap model, @RequestParam int yaer, @RequestParam int month, @RequestParam int day){
-		model.put("year", yaer);
+	public String showDayofBirth(ModelMap model, @RequestParam int year, @RequestParam int month, @RequestParam int day){
+		model.put("year", year);
 		model.put("month", month);
 		model.put("day", day);
 		if (day > 31) {
