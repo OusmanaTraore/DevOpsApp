@@ -21,7 +21,7 @@
     
     <hr/>
     <footer>
-        <p>&reg;2020 the DevOps Company.</p>
+        <p>&reg;2020 the GROSGIB Company.</p>
     </footer>
 </body>
 </html>
