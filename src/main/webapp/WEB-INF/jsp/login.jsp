@@ -13,7 +13,7 @@
         </h1>        
     </header>
 
-    <p>Coucou devops</p>
+    <p>Coucou Lothaire</p>
     
     <hr/>
     <footer>
