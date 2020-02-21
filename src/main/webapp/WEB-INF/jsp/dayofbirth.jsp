@@ -15,7 +15,7 @@
 
     <p>${year}/${month}/${day}</p>
 
-    <p>Bine tas vu !!!!<br/>
+    <p>BIEN TAS VU GROS !!!!<br/>
         <a href="login">Click here</a>
     </p>
     
