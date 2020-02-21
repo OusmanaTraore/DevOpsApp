@@ -27,7 +27,7 @@
     
     <hr/>
     <footer>
-        <p>&reg;2020 the DevOps Company.</p>
+        <p>&reg;Salut devops</p>
     </footer>
 </body>
 </html>
