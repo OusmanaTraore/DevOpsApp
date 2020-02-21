@@ -9,7 +9,7 @@
 <body>
     <header style="background-color:powderblue;">
         <h1>Welcome to the DevOps Application
-            <img src="/images/chocobo.jpg" alt="une image de chocobo" style="float:right;width:233px;height:175px;"/>
+            <img src="/images/petitchat.jpg" alt="une image de chocobo" style="float:right;width:233px;height:175px;"/>
         </h1>        
     </header>
 
