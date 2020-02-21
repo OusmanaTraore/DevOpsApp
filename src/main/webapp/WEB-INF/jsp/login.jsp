@@ -27,7 +27,7 @@
     
     <hr/>
     <footer>
-        <p>&reg;Salut devops</p>
+        <p>&reg;Salut Lothaire</p>
     </footer>
 </body>
 </html>
