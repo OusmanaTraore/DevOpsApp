@@ -15,7 +15,7 @@
 
     <p>${year}/${month}/${day}</p>
 
-    <p>Would you like to play again?<br/>
+    <p>Bine tas vu !!!!<br/>
         <a href="login">Click here</a>
     </p>
     
